@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "781204136945",
+    "firebase_url": "https://mulmug.firebaseio.com",
+    "project_id": "mulmug",
+    "storage_bucket": "mulmug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781204136945:android:c65cf2ebcfc3c9b6",
+        "android_client_info": {
+          "package_name": "com.themakery.mulmug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781204136945-qvhhrua1ficfloodf39lot3gbsle4pd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyN60kOJ1OpzafxYJUzSB_rvFlda_aeFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
